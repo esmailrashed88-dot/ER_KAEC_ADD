@@ -1,0 +1,5 @@
+# ER.PlotLayouts (AutoCAD / ASD add-in) - LOCKED computers
+# One computer ID per line (from ERLICENSE). Anything after # is a note.
+# Add a line to lock a computer; delete it to unlock (at its next AutoCAD start with internet).
+# Example (not active - starts with #):
+# 7KQ2-M9XD-4TPA-W3HC   # customer name - reason
